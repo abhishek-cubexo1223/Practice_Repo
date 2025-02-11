@@ -1,0 +1,4 @@
+appium-python-client
+pytest
+selenium
+allure-pytest

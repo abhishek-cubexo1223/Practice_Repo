@@ -5,3 +5,6 @@ class OrderSerializer(serializers.ModelSerializer):
     class Meta:
         model = Order
         fields = '__all__'
+
+
+# Again add some content to serializer.py file

@@ -8,3 +8,6 @@
 # es# hello this is new changes# hello this is new changes# hello this is new changes
 # hello this is new changes# hello this is new changes# hello this is new changesvvv
 
+
+def multiply():
+    print("this is multiply function")

@@ -9,3 +9,6 @@ def add():
     print("hello function")
 def multiply():
     print("this is multiply function")
+
+def division():
+    print("this is a division function")
